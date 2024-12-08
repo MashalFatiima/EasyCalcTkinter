@@ -31,9 +31,8 @@ The UI is designed with a grid layout for easy access and responsive design
 1. Make sure you have Python installed on your system.
 2. Install `tkinter` (usually comes pre-installed with Python).
 3. Save the code in a `.py` file and run it.
-
-```bash
-python app.py
+   ```bash
+   python app.py
 
 ## Developed By
 
